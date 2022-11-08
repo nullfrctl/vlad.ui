@@ -1,0 +1,32 @@
+{
+  "import": {},
+  "export": {
+    "base\\gameplay\\gui\\common\\shadow_blobs.inkatlas": {},
+    "base\\gameplay\\gui\\fullscreen\\inventory\\atlas_inventory.inkatlas": {},
+    "base\\gameplay\\gui\\fullscreen\\inventory\\shadow_icons.inkatlas": {},
+    "base\\gameplay\\gui\\fullscreen\\inventory\\shadow_icons.xbm": {
+      "UncookExtension": 1,
+      "Flip": true
+    },
+    "base\\gameplay\\gui\\fullscreen\\main_menu\\menu_background.xbm": {
+      "UncookExtension": 1,
+      "Flip": true
+    },
+    "base\\gameplay\\gui\\fullscreen\\main_menu\\menu_background_1080p.xbm": {
+      "UncookExtension": 1,
+      "Flip": true
+    },
+    "base\\gameplay\\gui\\widgets\\healthbar\\hpbar_anim.xbm": {
+      "UncookExtension": 1,
+      "Flip": true
+    },
+    "base\\gameplay\\gui\\widgets\\healthbar\\hpbar_anim_1080p.xbm": {
+      "UncookExtension": 1,
+      "Flip": true
+    },
+    "base\\gameplay\\gui\\fullscreen\\pause_menu\\tex\\menu_bg_texture.xbm": {
+      "UncookExtension": 1,
+      "Flip": true
+    }
+  }
+}
